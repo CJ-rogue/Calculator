@@ -1,2 +1,2 @@
-# NB_Projects
-Netbeans projects for Data Structure and Software Design Courses
+# NetBeans GUI Calculator
+Netbeans projects for Software Design Course
