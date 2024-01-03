@@ -3,10 +3,10 @@
 <img width="193" alt="image" src="https://github.com/CJ-rogue/Calculator-using-Netbeans/assets/137157404/3f35b7a6-f710-4499-8ba1-c66bdd2e419a">
 
 ## Table of Contents:
-1. [Introduction](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-introduction)
-2. [Download Executable File](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-Download-Executable-File)
-3. [Usage](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-Usage)
-4. [License](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-License)
+1. [Introduction](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#introduction)
+2. [Download Executable File](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#Download-Executable-File)
+3. [Usage](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#Usage)
+4. [License](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#license)
 
 ## Introduction
 A simple calculator project using Netbeans GUI for Software Design Course
