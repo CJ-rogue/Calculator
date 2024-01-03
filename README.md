@@ -3,16 +3,16 @@
 <img width="193" alt="image" src="https://github.com/CJ-rogue/Calculator-using-Netbeans/assets/137157404/3f35b7a6-f710-4499-8ba1-c66bdd2e419a">
 
 ## Table of Contents:
-1. [Introduction](##Introduction)
-2. Download Executable File
-3. Usage
-4. License
+1. [Introduction](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-introduction)
+2. [Download Executable File](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-Download-Executable-File)
+3. [Usage](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-Usage)
+4. [License](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/README.md#-License)
 
-## <a name="Introduction"></a> Introduction
+## Introduction
 A simple calculator project using Netbeans GUI for Software Design Course
 
 ## Download Executable File
-1. Download the Zip File: Click Here
+1. Download the Zip File: [Click Here](https://github.com/CJ-rogue/Calculator-using-Netbeans/releases/download/v1.0/MyCalculator.Jar.File.zip)
 1. Unzip the file
 2. Open dist folder
 3. Click MyCalculator to run the Executable Jar File
