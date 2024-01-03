@@ -1,2 +1,2 @@
 # NetBeans GUI Calculator
-Netbeans projects for Software Design Course
+A Netbeans project for Software Design Course
