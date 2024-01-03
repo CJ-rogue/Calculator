@@ -3,7 +3,7 @@
 <img width="193" alt="image" src="https://github.com/CJ-rogue/Calculator-using-Netbeans/assets/137157404/3f35b7a6-f710-4499-8ba1-c66bdd2e419a">
 
 ## Table of Contents:
-1. [Introduction](#Introduction)
+1. [Introduction](##Introduction)
 2. Download Executable File
 3. Usage
 4. License
