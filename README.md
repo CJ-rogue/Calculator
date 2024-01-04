@@ -3,10 +3,10 @@
 <img width="193" alt="image" src="https://github.com/CJ-rogue/Calculator-using-Netbeans/assets/137157404/3f35b7a6-f710-4499-8ba1-c66bdd2e419a">
 
 ## Table of Contents:
-1. [Introduction](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#introduction)
-2. [Download Executable File](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#Download-Executable-File)
-3. [Usage](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#Usage)
-4. [License](https://github.com/CJ-rogue/Calculator-using-Netbeans?tab=readme-ov-file#license)
+1. [Introduction](#introduction)
+2. [Download Executable File](#Download-Executable-File)
+3. [Usage](#Usage)
+4. [License](#license)
 
 ## Introduction
 A simple calculator project using Netbeans GUI for Software Design Course
@@ -25,4 +25,4 @@ Make sure you have Java installed on your computer or run the JAR File from the 
 This calculator supports basic arithmetic operations: addition, subtraction, multiplication, and division. Use the C button to clear the screen.
 
 ## License
-This project is licensed under the terms of the [MIT License](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/LICENSE).
+This project is licensed under the terms of the [MIT License](LICENSE).
