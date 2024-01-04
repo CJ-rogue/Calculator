@@ -25,4 +25,4 @@ Make sure you have Java installed on your computer or run the JAR File from the 
 This calculator supports basic arithmetic operations: addition, subtraction, multiplication, and division. Use the C button to clear the screen.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/CJ-rogue/Calculator/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/CJ-rogue/Calculator-using-Netbeans/blob/main/LICENSE).
